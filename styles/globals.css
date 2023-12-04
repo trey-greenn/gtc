@@ -226,20 +226,19 @@ body {
   .one-third {
     width: 33%;
     float: left;
-    padding: 10px 10px;
   }
   
   
   .stat {
     position: relative;
-    font-size: 20px;
+    font-size: 16px;
     margin-bottom: 10px;
   }
   
   .stat-value {
     text-transform: uppercase;
     font-weight: 1000;
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .no-border {

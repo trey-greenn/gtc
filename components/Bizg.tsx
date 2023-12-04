@@ -59,17 +59,17 @@ const Bizg = () => {
                 </div>
     
               <div className="clash-card__unit-stats clash-card__unit-stats--barbarian clearfix">
-                <div className="one-third">
-                  <div className="stat text-xl">{g.founded}</div>
+                <div className="one-third py-2">
+                  <div className="stat">{g.founded}</div>
                   <div className="stat-value">Founded</div>
                 </div>
     
-                <div className="one-third">
-                  <div className="stat">{g.revenue}</div>
+                <div className="one-third py-2">
+                  <div className="stat ">{g.revenue}</div>
                   <div className="stat-value">2022 Revenue</div>
                 </div>
     
-                <div className="one-third no-border">
+                <div className="one-third no-border py-2">
                   <div className="stat">{g.marketCap}</div>
                   <div className="stat-value">Market Cap</div>
                 </div>
